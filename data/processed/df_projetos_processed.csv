@@ -1,0 +1,141 @@
+projeto_id,cliente_id,nome_projeto,tipo_servico,squad,status,data_inicio,data_fim_prevista,data_fim_real,horas_vendidas,valor_contrato
+PRJ0001,CLI013,Dashboard Bi - Windsor,Dashboard B.I.,Delta,Concluído,2024-03-19,2024-05-06,2024-05-08,288,58987.08
+PRJ0002,CLI022,Diagnóstico De Dados - Umbu,Diagnóstico De Dados,Alpha,Cancelado,2024-10-01,2024-10-28,,89,24044.51
+PRJ0003,CLI051,Pipeline De Dados - Cristal,Pipeline De Dados,Charlie,Concluído,2025-06-16,2025-10-20,2025-10-15,423,91525.58
+PRJ0004,CLI060,Dashboard Bi - Kairós,Dashboard Bi,Echo,Concluído,2024-03-19,2024-04-25,2024-04-26,220,47409.01
+PRJ0005,CLI020,Modelo Preditivo - Duna,Modelo Preditivo,Echo,Concluído,2024-12-09,2025-02-27,2025-03-12,338,61970.49
+PRJ0006,CLI048,Pipeline De Dados - Pantanal,Pipeline De Dados,Bravo,Concluído,2025-02-26,2025-06-16,2025-07-09,515,110285.35
+PRJ0007,CLI021,Data Warehouse - Quartzo,Data Warehouse,Delta,Concluído,2024-08-13,2025-02-17,2025-02-20,852,169819.61
+PRJ0008,CLI041,Data Warehouse - Everest,Data Warehouse,Echo,Em Andamento,2026-02-16,2026-09-04,,743,133841.27
+PRJ0009,CLI031,Dashboard Bi - Everest,Dashboard Bi,Echo,Concluído,2025-10-13,2025-11-17,2025-11-17,157,34835.02
+PRJ0010,CLI001,Modelo Preditivo - Umbu,Modelo Preditivo,Alpha,Concluído,2024-07-08,2024-10-22,2024-10-21,578,98986.73
+PRJ0011,CLI030,Diagnóstico De Dados - Serena,Diagnóstico De Dados,Bravo,Concluído,2025-08-04,2025-09-10,2025-09-09,178,45106.31
+PRJ0012,CLI054,Data Warehouse - Aurora,Data Warehouse,Echo,Em Andamento,2026-02-09,2026-07-13,,856,192040.56
+PRJ0013,CLI050,Dashboard Bi - Horizonte,Dashboard B.I.,Echo,Concluído,2024-10-15,2025-01-08,2025-01-03,368,86065.04
+PRJ0014,CLI009,Data Warehouse - Basalto,Data Warehouse,Bravo,Concluído,2024-12-06,2024-10-14,2024-11-14,636,124698.57
+PRJ0015,CLI054,Dashboard Bi - Aurora,Dashboard Bi,Delta,Concluído,2025-08-28,2025-10-21,2025-12-15,319,80815.04
+PRJ0016,CLI020,Treinamento - Duna,Treinamento,Delta,Concluído,2026-05-12,2026-06-16,2026-06-16,149,24522.73
+PRJ0017,CLI018,Pipeline De Dados - Duna,Pipeline De Dados,Delta,Concluído,2024-12-17,2025-03-17,2025-03-20,448,81420.19
+PRJ0018,CLI040,Dashboard Bi - Kairós,Dashboard Bi,Echo,Concluído,2025-09-05,2025-10-03,2025-11-18,133,33713.51
+PRJ0019,CLI017,Dashboard Bi - Granito,Dashboard B.I.,Delta,Concluído,2024-12-09,2025-02-18,2025-02-14,287,58782.26
+PRJ0020,CLI006,Dashboard Bi - Granito,Dashboard Bi,Delta,Concluído,2024-03-01,2024-03-22,2024-03-25,129,31273.69
+PRJ0021,CLI002,Dashboard Bi - Xingu,Dashboard Bi,Bravo,Concluído,2025-06-10,2025-12-09,2026-01-26,222,55221.62
+PRJ0022,CLI017,Pipeline De Dados - Granito,Pipeline De Dados,Charlie,Concluído,2026-02-11,2026-04-07,2026-04-01,285,61660.77
+PRJ0023,CLI020,Dashboard Bi - Duna,Dashboard Bi,Echo,Concluído,2026-01-09,2026-04-06,2026-04-08,312,67942.93
+PRJ0024,CLI044,Pipeline De Dados - Pantanal,Pipeline De Dados,Echo,Concluído,2025-08-11,2025-12-03,2025-01-12,612,146611.64
+PRJ0025,CLI001,Modelo Preditivo - Umbu,Modelo Preditivo,Delta,Concluído,2025-01-13,2025-04-10,2025-04-14,430,66769.09
+PRJ0026,CLI042,Data Warehouse - Ébano,Data Warehouse,Charlie,Concluído,2025-07-14,2026-01-23,2026-01-26,1030,226034.49
+PRJ0027,CLI060,Dashboard Bi - Kairós,Dashboard Bi,Alpha,Concluído,2024-09-13,2024-11-01,2024-11-04,262,65949.12
+PRJ0028,CLI012,Diagnóstico De Dados - Laguna,Diagnóstico De Dados,Delta,Concluído,2024-09-30,2024-10-28,2024-10-31,114,26036.0
+PRJ0029,CLI013,Data Warehouse - Windsor,Data Warehouse,Alpha,Concluído,2025-05-22,2025-10-07,2025-11-11,647,138848.86
+PRJ0030,CLI006,Diagnóstico De Dados - Granito,Diagnóstico De Dados,Charlie,Concluído,2024-09-13,2024-10-14,2024-10-14,116,26952.84
+PRJ0031,CLI036,Treinamento - Cristal,Treinamento,Charlie,Concluído,2024-10-11,2024-11-01,2024-04-11,85,13187.13
+PRJ0032,CLI049,Data Warehouse - Cristal,Data Warehouse,Foxtrot,Concluído,2026-02-02,2026-06-15,2026-06-15,589,109279.97
+PRJ0033,CLI019,Diagnóstico De Dados - Xingu,Diagnóstico De Dados,Bravo,Concluído,2024-01-22,2024-02-20,2024-02-12,152,32582.01
+PRJ0034,CLI009,Modelo Preditivo - Basalto,Modelo Preditivo,Foxtrot,Concluído,2024-01-22,2024-05-20,2024-06-24,565,98617.32
+PRJ0035,CLI056,Dashboard Bi - Horizonte,Dashboard Bi,Delta,Concluído,2025-02-21,2025-04-01,2025-04-03,178,44063.56
+PRJ0036,CLI020,Data Warehouse - Duna,Data Warehouse,Alpha,Em Andamento,2026-03-02,2026-08-03,,654,118710.7
+PRJ0037,CLI059,Pipeline De Dados - Dunas,Pipeline De Dados,Delta,Concluído,2025-03-24,2025-06-23,2025-06-24,352,81526.72
+PRJ0038,CLI041,Diagnóstico De Dados - Everest,Diagnóstico De Dados,Bravo,Cancelado,2024-06-17,2024-07-22,,127,32109.95
+PRJ0039,CLI019,Data Warehouse - Xingu,Data Warehouse,Alpha,Concluído,2024-10-23,2025-02-24,2025-02-26,637,121568.75
+PRJ0040,CLI038,Diagnóstico De Dados - Dunas,Diagnóstico De Dados,Foxtrot,Concluído,2025-07-18,2025-08-18,2025-08-14,110,25741.22
+PRJ0041,CLI020,Dashboard Bi - Duna,Dashboard Bi,Echo,Concluído,2025-04-01,2025-07-31,2025-08-04,411,104592.71
+PRJ0042,CLI029,Data Warehouse - Dunas,Data Warehouse,Alpha,Concluído,2025-03-25,2025-10-06,2025-09-29,1012,179318.65
+PRJ0043,CLI037,Diagnóstico De Dados - Serena,Diagnóstico De Dados,Echo,Concluído,2025-11-26,2025-12-11,2025-12-05,65,18197.78
+PRJ0044,CLI012,Treinamento - Laguna,Treinamento,Echo,Concluído,2025-05-26,2025-06-11,2025-06-09,95,14415.23
+PRJ0045,CLI022,Diagnóstico De Dados - Umbu,Diagnóstico De Dados,Delta,Concluído,2025-02-21,2025-03-27,2025-03-26,186,41488.68
+PRJ0046,CLI050,Dashboard Bi - Horizonte,Dashboard Bi,Delta,Concluído,2024-01-09,2024-03-26,2024-03-25,383,94886.3
+PRJ0047,CLI032,Modelo Preditivo - Coral,Modelo Preditivo,Foxtrot,Concluído,2024-08-05,2024-11-19,2024-12-12,406,70864.84
+PRJ0048,CLI041,Dashboard Bi - Everest,Dashboard Bi,Echo,Concluído,2024-11-21,2025-01-13,2025-01-06,242,58003.72
+PRJ0049,CLI008,Dashboard Bi - Orion,Dashboard B.I.,Foxtrot,Concluído,2026-12-01,2026-03-04,2026-03-02,198,44527.48
+PRJ0050,CLI036,Dashboard Bi - Cristal,Dashboard Bi,Bravo,Concluído,2025-09-12,2025-11-20,2025-11-13,316,64256.3
+PRJ0051,CLI060,Pipeline De Dados - Kairós,Pipeline De Dados,Echo,Concluído,2024-10-23,2024-12-26,2024-12-27,336,77022.28
+PRJ0052,CLI035,Dashboard Bi - Serena,Dashboard Bi,Delta,Concluído,2026-02-27,2026-05-01,2026-04-28,296,63128.16
+PRJ0053,CLI025,Dashboard Bi - Umbu,Dashboard Bi,Bravo,Concluído,2026-02-09,2026-04-24,2026-04-22,330,63708.25
+PRJ0054,CLI010,Diagnóstico De Dados - Cristal,Diagnóstico De Dados,Delta,Concluído,2025-09-03,2025-09-22,2025-11-20,69,14496.88
+PRJ0055,CLI047,Pipeline De Dados - Boreal,Pipeline De Dados,Bravo,Concluído,2024-06-14,2024-10-18,2024-10-14,409,94992.7
+PRJ0056,CLI055,Modelo Preditivo - Quartzo,Modelo Preditivo,Charlie,Concluído,2025-01-31,2025-04-30,2025-04-29,525,99999999.0
+PRJ0057,CLI041,Dashboard Bi - Everest,Dashboard Bi,Foxtrot,Concluído,2026-02-10,2026-05-04,2026-05-06,267,69371.89
+PRJ0058,CLI020,Dashboard Bi - Duna,Dashboard Bi,Alpha,Concluído,2024-03-05,2024-04-10,2024-04-04,143,30416.99
+PRJ0059,CLI012,Modelo Preditivo - Laguna,Modelo Preditivo,Bravo,Concluído,2025-02-03,2025-03-31,2025-12-05,269,41412.12
+PRJ0060,CLI017,Dashboard Bi - Granito,Dashboard Bi,Foxtrot,Concluído,2025-04-28,2025-05-19,2025-05-13,124,31362.53
+PRJ0061,CLI020,Treinamento - Duna,Treinamento,Foxtrot,Concluído,2025-04-21,2025-07-05,2025-06-05,94,14524.47
+PRJ0062,CLI023,Pipeline De Dados - Tucano,Pipeline De Dados,Echo,Concluído,2024-11-05,2025-02-27,2025-02-25,351,84086.09
+PRJ0063,CLI048,Modelo Preditivo - Pantanal,Modelo Preditivo,Alpha,Em Andamento,2026-11-05,2026-08-04,,490,91756.72
+PRJ0064,CLI041,Pipeline De Dados - Everest,Pipeline De Dados,Bravo,Concluído,2026-02-19,2026-06-01,2026-05-26,517,100834.44
+PRJ0065,CLI020,Modelo Preditivo - Duna,Modelo Preditivo,Delta,Concluído,2026-01-26,2026-03-25,2026-03-23,197,35258.8
+PRJ0066,CLI035,Dashboard Bi - Serena,Dashboard Bi,Charlie,Concluído,2024-10-14,2024-12-24,2024-12-23,391,88024.12
+PRJ0067,CLI052,Diagnóstico De Dados - Granito,Diagnóstico De Dados,Alpha,Concluído,2024-05-31,2024-07-04,2024-07-08,179,49588.63
+PRJ0068,CLI052,Treinamento - Granito,Treinamento,Echo,Concluído,2025-02-17,2025-03-17,2025-03-17,86,10708.3
+PRJ0069,CLI025,Dashboard Bi - Umbu,Dashboard Bi,Foxtrot,Concluído,2024-09-03,2024-11-12,2024-11-12,310,61251.11
+PRJ0070,CLI041,Modelo Preditivo - Everest,Modelo Preditivo,Delta,Concluído,2025-03-03,2025-08-11,2025-08-18,538,96290.53
+PRJ0071,CLI057,Dashboard Bi - Windsor,Dashboard Bi,Echo,Concluído,2025-01-21,2025-02-27,2025-02-27,189,41051.78
+PRJ0072,CLI027,Dashboard Bi - Quartzo,Dashboard Bi,Foxtrot,Concluído,2025-09-29,2025-11-10,2025-11-03,170,42220.95
+PRJ0073,CLI016,Pipeline De Dados - Boreal,Pipeline De Dados,Charlie,Concluído,2025-01-20,2025-03-14,2025-11-03,250,59713.92
+PRJ0074,CLI055,Treinamento - Quartzo,Treinamento,Delta,Concluído,2025-10-27,2025-11-11,2025-11-03,51,7810.06
+PRJ0075,CLI037,Dashboard Bi - Serena,Dashboard Bi,Bravo,Concluído,2025-07-28,2025-08-09,2025-09-03,155,38453.52
+PRJ0076,CLI001,Treinamento - Umbu,Treinamento,Charlie,Concluído,2024-05-20,2024-06-21,2024-06-14,149,25211.01
+PRJ0077,CLI051,Dashboard Bi - Cristal,Dashboard Bi,Bravo,Concluído,2024-07-10,2025-01-06,2025-01-06,285,54464.83
+PRJ0078,CLI024,Pipeline De Dados - Aurora,Pipeline De Dados,Echo,Concluído,2025-06-06,2025-10-21,2025-10-24,503,93831.25
+PRJ0079,CLI030,Data Warehouse - Serena,Data Warehouse,Foxtrot,Concluído,2025-05-12,2025-07-28,2025-07-21,431,76866.87
+PRJ0080,CLI006,Dashboard Bi - Granito,Dashboard Bi,Charlie,Concluído,2024-10-15,2024-11-25,2024-11-28,195,37946.56
+PRJ0081,CLI030,Data Warehouse - Serena,Data Warehouse,Echo,Em Andamento,2026-03-30,2026-10-15,,1019,202435.52
+PRJ0082,CLI014,Modelo Preditivo - Xingu,Modelo Preditivo,Delta,Concluído,2025-03-06,2025-06-16,2025-07-17,411,79900.27
+PRJ0083,CLI017,Pipeline De Dados - Granito,Pipeline De Dados,Charlie,Concluído,2025-05-07,2025-12-08,2025-12-01,688,130140.93
+PRJ0084,CLI009,Pipeline De Dados - Basalto,Pipeline De Dados,Echo,Concluído,2025-05-08,2025-09-23,2025-09-22,230,49493.22
+PRJ0085,CLI056,Diagnóstico De Dados - Horizonte,Diagnóstico De Dados,Foxtrot,Concluído,2025-09-15,2025-10-03,2025-11-10,73,20255.45
+PRJ0086,CLI007,Dashboard Bi - Coral,Dashboard Bi,Charlie,Concluído,2026-02-26,2026-06-11,2026-06-09,404,87154.63
+PRJ0087,CLI040,Diagnóstico De Dados - Kairós,Diagnóstico De Dados,Foxtrot,Concluído,2025-11-11,2025-11-26,2025-11-20,66,16415.49
+PRJ0088,CLI023,Treinamento - Tucano,Treinamento,Alpha,Concluído,2025-08-11,2025-08-26,2025-10-17,63,10300.07
+PRJ0089,CLI014,Modelo Preditivo - Xingu,Modelo Preditivo,Delta,Concluído,2024-06-17,2024-09-20,2024-09-23,394,68036.82
+PRJ0090,CLI049,Dashboard Bi - Cristal,Dashboard Bi,Echo,Concluído,2024-10-14,2024-11-18,2024-11-19,145,34390.78
+PRJ0091,CLI008,Diagnóstico De Dados - Orion,Diagnóstico De Dados,Charlie,Concluído,2025-02-12,2026-01-05,2026-01-07,170,35508.1
+PRJ0092,CLI004,Treinamento - Rubi,Treinamento,Alpha,Concluído,2024-08-12,2024-08-27,2024-08-23,66,8914.68
+PRJ0093,CLI012,Modelo Preditivo - Laguna,Modelo Preditivo,Bravo,Concluído,2024-08-30,2024-11-21,2024-11-18,374,69490.05
+PRJ0094,CLI002,Dashboard Bi - Xingu,Dashboard Bi,Delta,Concluído,2025-08-19,2025-09-25,2025-09-29,159,39805.28
+PRJ0095,CLI021,Dashboard Bi - Quartzo,Dashboard Bi,Bravo,Concluído,2025-01-13,2025-05-01,2025-04-28,355,88125.84
+PRJ0096,CLI056,Dashboard Bi - Horizonte,Dashboard Bi,Charlie,Concluído,2026-03-16,2026-08-06,2026-06-01,293,60214.44
+PRJ0097,CLI023,Diagnóstico De Dados - Tucano,Diagnóstico De Dados,Foxtrot,Concluído,2024-06-05,2024-07-01,2024-06-25,97,21233.45
+PRJ0098,CLI050,Dashboard Bi - Horizonte,Dashboard Bi,Foxtrot,Concluído,2025-07-08,2025-10-16,2025-10-17,372,82761.34
+PRJ0099,CLI041,Pipeline De Dados - Everest,Pipeline De Dados,Charlie,Concluído,2025-05-02,2025-07-07,2025-07-03,277,57168.86
+PRJ0100,CLI030,Dashboard Bi - Serena,Dashboard Bi,Delta,Concluído,2026-05-08,2026-06-12,2026-06-05,139,26963.54
+PRJ0101,CLI036,Pipeline De Dados - Cristal,Pipeline De Dados,Foxtrot,Em Andamento,2026-04-16,2026-09-02,,658,120059.58
+PRJ0102,CLI029,Treinamento - Dunas,Treinamento,Alpha,Concluído,2024-12-24,2025-01-17,2025-03-04,143,23588.76
+PRJ0103,CLI029,Pipeline De Dados - Dunas,Pipeline De Dados,Echo,Concluído,2025-01-14,2025-07-05,2025-05-05,467,101146.75
+PRJ0104,CLI041,Dashboard Bi - Everest,Dashboard Bi,Foxtrot,Concluído,2024-04-15,2024-06-17,2024-06-13,291,56632.62
+PRJ0105,CLI056,Treinamento - Horizonte,Treinamento,Bravo,Concluído,2025-11-17,2025-12-10,2025-12-12,82,10174.16
+PRJ0106,CLI006,Data Warehouse - Granito,Data Warehouse,Charlie,Em Andamento,2026-03-30,2026-11-30,,972,190237.28
+PRJ0107,CLI059,Treinamento - Dunas,Treinamento,Echo,Concluído,2025-03-17,2025-04-01,2025-04-25,51,7767.36
+PRJ0108,CLI032,Treinamento - Coral,Treinamento,Bravo,Concluído,2024-06-14,2024-07-05,2024-06-28,68,11559.92
+PRJ0109,CLI034,Modelo Preditivo - Orion,Modelo Preditivo,Alpha,Concluído,2026-03-02,2026-06-16,2026-06-10,518,86422.2
+PRJ0110,CLI052,Diagnóstico De Dados - Granito,Diagnóstico De Dados,Bravo,Concluído,2025-01-15,2025-02-18,2025-02-17,172,35001.21
+PRJ0111,CLI015,Diagnóstico De Dados - Windsor,Diagnóstico De Dados,Echo,Concluído,2026-04-15,2026-05-07,2026-05-04,121,27195.65
+PRJ0112,CLI030,Treinamento - Serena,Treinamento,Charlie,Concluído,2025-01-07,2025-08-04,2025-08-21,139,19334.01
+PRJ0113,CLI042,Dashboard Bi - Ébano,Dashboard Bi,Delta,Concluído,2024-04-22,2024-06-21,2024-06-14,310,70933.53
+PRJ0114,CLI058,Dashboard Bi - Rubi,Dashboard Bi,Echo,Concluído,2024-04-10,2024-05-13,2024-05-13,195,48393.79
+PRJ0115,CLI026,Pipeline De Dados - Ipê,Pipeline De Dados,Echo,Concluído,2024-04-01,2024-07-04,2024-07-15,391,75911.35
+PRJ0116,CLI009,Diagnóstico De Dados - Basalto,Diagnóstico De Dados,Alpha,Concluído,2025-05-05,2025-06-02,2025-06-05,133,36845.18
+PRJ0117,CLI002,Treinamento - Xingu,Treinamento,Charlie,Concluído,2025-07-22,2025-06-08,2025-08-04,67,10837.13
+PRJ0118,CLI004,Pipeline De Dados - Rubi,Pipeline De Dados,Bravo,Concluído,2025-10-06,2026-01-08,2026-02-13,414,90391.56
+PRJ0119,CLI016,Data Warehouse - Boreal,Data Warehouse,Foxtrot,Concluído,2024-09-01,2024-04-30,2024-05-31,547,104487.92
+PRJ0120,CLI024,Data Warehouse - Aurora,Data Warehouse,Alpha,Em Andamento,2026-03-23,2026-08-27,,938,192219.19
+PRJ0121,CLI024,Modelo Preditivo - Aurora,Modelo Preditivo,Charlie,Em Andamento,2026-03-25,2026-09-16,,562,84756.41
+PRJ0122,CLI049,Data Warehouse - Cristal,Data Warehouse,Charlie,Concluído,2025-07-21,2025-12-01,2025-03-12,536,95107.02
+PRJ0123,CLI052,Modelo Preditivo - Granito,Modelo Preditivo,Bravo,Concluído,2025-04-21,2025-06-30,2025-08-25,212,39390.08
+PRJ0124,CLI033,Treinamento - Xingu,Treinamento,Delta,Concluído,2024-09-23,2024-08-11,2024-11-04,144,21189.82
+PRJ0125,CLI022,Diagnóstico De Dados - Umbu,Diagnóstico De Dados,Charlie,Concluído,2025-03-31,2025-04-16,2025-04-14,91,24019.21
+PRJ0126,CLI024,Modelo Preditivo - Aurora,Modelo Preditivo,Echo,Concluído,2026-01-21,2026-04-06,2026-06-02,316,60058.14
+PRJ0127,CLI021,Dashboard Bi - Quartzo,Dashboard B.I.,Foxtrot,Concluído,2025-09-16,2025-11-07,2025-12-10,271,57304.23
+PRJ0128,CLI023,Diagnóstico De Dados - Tucano,Diagnóstico De Dados,Echo,Concluído,2026-03-30,2026-04-28,2026-06-12,171,37955.92
+PRJ0129,CLI011,Modelo Preditivo - Horizonte,Modelo Preditivo,Alpha,Concluído,2025-12-02,2026-01-19,2026-01-28,253,48685.67
+PRJ0130,CLI037,Pipeline De Dados - Serena,Pipeline De Dados,Alpha,Concluído,2025-04-14,2025-07-10,2025-07-03,509,96306.0
+PRJ0131,CLI042,Pipeline De Dados - Ébano,Pipeline De Dados,Charlie,Concluído,2024-02-05,2024-08-04,2024-04-08,327,77705.4
+PRJ0132,CLI046,Diagnóstico De Dados - Âncora,Diagnóstico De Dados,Delta,Concluído,2024-10-28,2024-11-19,2024-11-14,114,31886.85
+PRJ0133,CLI058,Pipeline De Dados - Rubi,Pipeline De Dados,Foxtrot,Em Andamento,2026-04-16,2026-07-09,,427,102409.86
+PRJ0134,CLI035,Dashboard Bi - Serena,Dashboard Bi,Charlie,Concluído,2026-01-05,2026-02-27,2026-02-23,273,68139.53
+PRJ0135,CLI013,Dashboard Bi - Windsor,Dashboard Bi,Bravo,Concluído,2024-02-05,2024-04-04,2024-04-03,241,59123.59
+PRJ0136,CLI006,Data Warehouse - Granito,Data Warehouse,Alpha,Concluído,2026-01-12,2026-06-01,2026-01-06,716,140979.54
+PRJ0137,CLI042,Treinamento - Ébano,Treinamento,Alpha,Concluído,2025-06-20,2025-07-14,2025-07-14,97,13899.29
+PRJ0138,CLI028,Treinamento - Rubi,Treinamento,Echo,Em Andamento,2026-05-08,2026-06-23,,156,25492.05
+PRJ0139,CLI023,Modelo Preditivo - Tucano,Modelo Preditivo,Echo,Concluído,2024-09-20,2024-12-19,2024-12-16,325,61768.66
+PRJ0140,CLI033,Data Warehouse - Xingu,Data Warehouse,Foxtrot,Concluído,2025-08-25,2026-02-06,2026-02-09,572,118718.29
